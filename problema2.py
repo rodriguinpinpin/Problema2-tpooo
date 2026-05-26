@@ -1,5 +1,5 @@
 def suma_recursiva(lista, pi, pf):
-    # caso base
+    
     if pi > pf:
         return 0
     
